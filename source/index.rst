@@ -17,6 +17,7 @@ Guide:
 
    intro
    help
+   media
 
 
 

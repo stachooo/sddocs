@@ -5,7 +5,8 @@ Purpose:
 ^^^^^^^^
 
 The purpose of this document is to be a sandbox for generating CloudFerro documentation.
-I have just edited the contents on github to check if the html output gets updated automatically:
+
+I have just edited the contents on github to check if the html output gets updated automatically::
 
    print 'hello, I am Jan B'
    >> impossible!
